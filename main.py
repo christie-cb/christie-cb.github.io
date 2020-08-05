@@ -1,10 +1,13 @@
 from flask import Flask
+import flask
 
 app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello world."
+    author = "Miss Shoe"
+    name = "Christie"
+    return flask.render_template('index.html', author=author, name=name)
 
 
 if __name__=="__main__":
