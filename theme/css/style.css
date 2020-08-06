@@ -65,6 +65,11 @@ ol {
 	height: 109px;
 	padding: 0 10px 0 20px;
 } 
+	.upperlogo{
+		background:url('../images/title.jpg') 0 0 no-repeat;
+		height:10%;
+		width:100%;
+             }
 
 #topMenu {
 	background: url(../images/menubar.gif) no-repeat;
