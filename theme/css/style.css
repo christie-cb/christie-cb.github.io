@@ -4,8 +4,8 @@ dd { margin-left: 23px }
 /* *** General Styles *** */
 
 body  {
-	background: url(../images/background.jpg);
-	color: #293331;
+	background: none;
+	color: #FFFFFF
 	font: 16px Georgia, "Times New Roman", Times, serif;
 	text-align: center;
 }
@@ -61,15 +61,10 @@ ol {
 } 
 
 #header { 
-	background: url(../images/header.gif) no-repeat;
+	background: url(../images/header.jpg) center center no-repeat;
 	height: 109px;
 	padding: 0 10px 0 20px;
 } 
-	.upperlogo{
-		background:url('../images/title.jpg') 0 0 no-repeat;
-		height:10%;
-		width:100%;
-             }
 
 #topMenu {
 	background: url(../images/menubar.gif) no-repeat;
