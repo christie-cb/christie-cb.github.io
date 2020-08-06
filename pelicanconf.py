@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Christie-Carol Beauchamp'
-SITENAME = u"Miss Shoe's site"
-SITEURL = 'christie-cb.github.io'
+AUTHOR = 'Christie-Carol Beauchamp'
+SITENAME = "Miss Shoe's site"
+SITEURL = ''
 
 PATH = 'content'
 
