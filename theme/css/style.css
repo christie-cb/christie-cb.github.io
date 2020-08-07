@@ -62,10 +62,11 @@ ol {
 } 
 
 #header { 
-	background: url(../images/header.jpg) center center no-repeat;
+	background: url(../images/cc_blog_blue.svg) center center no-repeat;
         height: 109px;
 	padding: 0 10px 0 20px;
 } 
+
 
 #topMenu {
 	background: url(../images/menubar.gif) no-repeat;
@@ -106,7 +107,8 @@ ol {
 }
 
 #header a:hover {
-	background: none;
+	background-color: #FFFFFF;
+        cursor: pointer;
 }
 
 /* *** Top Menu Styles *** */
