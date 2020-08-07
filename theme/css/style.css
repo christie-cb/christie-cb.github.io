@@ -57,9 +57,8 @@ ol {
 #container { 
 	background: none;
 	margin: 0 auto;
-	text-align: left;
+        text-align: left;
 	width: 780px;
-	border: 2px dashed #A3D9EF;
 
 } 
 
@@ -87,6 +86,7 @@ ol {
 #mainContent {
 	background: url(../images/body.gif) repeat-y;
 	padding: 20px 250px 10px 40px;
+	border: 2px dashed #A3D9EF;
 } 
 
 #footer { 
