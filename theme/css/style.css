@@ -1,4 +1,4 @@
-* { margin: 0; padding: 0; }
+* { margin: 1; padding: 0; }
 dd { margin-left: 23px }
 
 /* *** General Styles *** */
@@ -26,6 +26,8 @@ a:hover {
 .blogItem h2 a,
 .blogMeta a {
 	text-decoration: none;
+        border-bottom: 2px dashed #A3D9EF;
+
 }
 
 p {
@@ -138,7 +140,7 @@ ol {
 
 .blogItem h2,
 .blogItem h3 {
-	font-weight: normal;
+        font-weight: normal;
 }
 
 .blogItem h2 a:hover {
@@ -151,6 +153,7 @@ ol {
 
 .blogItem h2 {
 	font-size: 24px;
+ 
 }
 
 
@@ -171,6 +174,8 @@ ol {
 #sidebar h3 {
 	font-size: 24px;
 	font-weight: normal;
+        text-decoration: underline;
+        text-decoration-color: #A3D9EF;
 }
 
 #sidebar ul {
