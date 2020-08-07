@@ -17,8 +17,9 @@ a {
 }
 
 a:hover {
-	background: #a7aa9e;
+	background: url(../images/hr.gif) center center no-repeat;
 }
+
 
 #header a,
 #topMenu a,
