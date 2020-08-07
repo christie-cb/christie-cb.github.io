@@ -70,7 +70,6 @@ ol {
 
 
 #topMenu {
-	background: url(../images/menubar.gif) no-repeat;
 	height: 48px;
 }
 
@@ -79,18 +78,16 @@ ol {
 	padding: 20px 30px 10px 0;
 	text-align: right;
 	width: 150px; 
-	border-left: 1px dashed #211F1F;
-
+	border-left: 2px dashed #A3D9EF;
+        border-bottom: 2px dashed #A3D9EF;	
 }
 
 #mainContent {
-	background: url(../images/body.gif) repeat-y;
 	padding: 20px 250px 10px 40px;
 	border: 2px dashed #A3D9EF;
 } 
 
 #footer { 
-	background: url(../images/bottom.gif) no-repeat;
 	font-size: 14px;
 	height: 70px;
 	padding: 0 10px 0 20px;
