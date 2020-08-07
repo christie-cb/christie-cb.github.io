@@ -59,6 +59,8 @@ ol {
 	margin: 0 auto;
 	text-align: left;
 	width: 780px;
+	border: 2px dashed #A3D9EF;
+
 } 
 
 #header { 
@@ -78,6 +80,8 @@ ol {
 	padding: 20px 30px 10px 0;
 	text-align: right;
 	width: 150px; 
+	border-left: 1px dashed #211F1F;
+
 }
 
 #mainContent {
