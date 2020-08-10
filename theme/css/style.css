@@ -81,8 +81,6 @@ ol {
 	text-align: right;
 	width: 150px;
         background-color: #A3D9EF;
-	border-left: 2px dashed #A3D9EF;
-        border-bottom: 2px dashed #A3D9EF;	
 }
 
 #mainContent {
@@ -175,8 +173,8 @@ ol {
 #sidebar h3 {
 	font-size: 24px;
 	font-weight: normal;
-        text-decoration: underline;
-        text-decoration-color: #A3D9EF;
+        text-decoration: underline #FFFFFF;
+        text-decoration-color: #;
 }
 
 #sidebar ul {
