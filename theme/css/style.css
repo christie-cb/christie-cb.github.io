@@ -79,7 +79,8 @@ ol {
 	float: right;
 	padding: 20px 30px 10px 0;
 	text-align: right;
-	width: 150px; 
+	width: 150px;
+        background-color: #A3D9EF;
 	border-left: 2px dashed #A3D9EF;
         border-bottom: 2px dashed #A3D9EF;	
 }
