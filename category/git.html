@@ -5,7 +5,7 @@
 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   
-  <title> - Articles by Your name</title>
+  <title> - git</title>
 <link href="/theme/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="/" type="application/atom+xml" rel="alternate" title=" ATOM Feed" />
   
@@ -55,7 +55,7 @@
 	<li>
             <h3>Categories</h3>
             <ul>
-		     <li ><a href="/category/git.html">git</a></li>
+		     <li class="active"><a href="/category/git.html">git</a></li>
 		     <li ><a href="/category/kaggle.html">kaggle</a></li>
 		     <li ><a href="/category/misc.html">misc</a></li>
 	    </ul>
@@ -98,14 +98,43 @@
   	
     <div class="blogItem">
     
-      <h2><a href="/My-first-post.html">My first post</a></h2>
+      <h2><a href="/git-merge-post.html">git merge</a></h2>
       
-      <p>This is the <em>first post</em> from my Pelican blog. <strong>YAY!</strong></p>	
+      <p>This is a very simple list of instructions on how to do a basic git merge. 
+When you're doing a git merge, you're working with two branches.
+<dl>
+  <dt>Current Branch</dt>
+  <dd>The branch where HEAD is pointing, which will get changed by the merge.</dd>
+  <dt>Target Branch</dt>
+  <dd>Remains unchanged after the merge, it is the one you want to keep the same. </dd>
+</dl></p>
+<p>You can check to see where the HEAD is pointing using: </p>
+<div class="highlight"><pre><span></span>    <span class="n">git</span> <span class="n">rev</span><span class="o">-</span><span class="n">parse</span> <span class="c1">--short HEAD</span>
+</pre></div>
+
+
+<p>You should switch to the branch you want to change using:</p>
+<div class="highlight"><pre><span></span>    <span class="n">git</span> <span class="n">checkout</span> <span class="o">&lt;</span><span class="n">branch</span><span class="o">-</span><span class="n">name</span><span class="o">&gt;</span>
+</pre></div>
+
+
+<p>To make sure you have the most recent changes to the remote, do:</p>
+<div class="highlight"><pre><span></span>    <span class="n">git</span> <span class="k">fetch</span>
+    <span class="n">git</span> <span class="n">pull</span>
+</pre></div>
+
+
+<p>on the master branch.</p>
+<p>Finally, do </p>
+<div class="highlight"><pre><span></span>    <span class="n">git</span> <span class="n">merge</span> <span class="o">&lt;</span><span class="n">target</span><span class="o">-</span><span class="n">branch</span><span class="o">&gt;</span>
+</pre></div>
+
+
+<p>to get the changes from the target branch onto the current branch.</p>	
 
       
-      <h3 class="blogMeta">By <a href="#">Your name</a>, Category: <a href="/category/misc.html">misc</a></h3>
-<h3 class="blogMeta">Tags: <span><a href="/tag/first.html">first</a> / </span>
-<span><a href="/tag/misc.html">misc</a> / </span>
+      <h3 class="blogMeta">By <a href="#">Christie-Carol</a>, Category: <a href="/category/git.html">git</a></h3>
+<h3 class="blogMeta">Tags: <span><a href="/tag/git.html">git</a> / </span>
 </h3>    
     </div><!-- end #blogItem -->
   
