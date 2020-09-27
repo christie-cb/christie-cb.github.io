@@ -5,3 +5,5 @@ gemspec
 
 # for demo site
 gem "jekyll-paginate"
+gem "kramdown-parser-gfm"
+
