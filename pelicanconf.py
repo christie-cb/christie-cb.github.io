@@ -11,7 +11,7 @@ THEME = '/Users/ccb/my_code/website/pelican-themes/waterspill-en/'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
-
+DEFAULT_DATE = 'fs'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
