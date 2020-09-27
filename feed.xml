@@ -19,6 +19,7 @@ layout: null
             <title>{{ post.title | xml_escape }}</title>
           {% endif %}
           <author>{{ site.email }} ({{ site.title }})</author>
+          <image>{{ site.baseurl }}/imagens/{{ post.image }}</image>
           <description>
             {{ post.content | xml_escape }}
           </description>
