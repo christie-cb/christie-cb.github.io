@@ -12,6 +12,12 @@
         {% include post-excerpt.html %}
       {% endif %}
     </div>
+    {%- if post.image -%}
+        <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+    {%- else -%}
+        {%- assign postImage = "/assets/images/image-default.jpg" -%}
+        <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
+    {%- endif -%}
     <span class="post-date">
       {{ post.date | date: "%b %-d, '%y" }}
     </span>
