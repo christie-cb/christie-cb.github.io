@@ -4,6 +4,15 @@
       {% unless post.title == "" %}
           <h1 class="post-link__title">      
             {{ post.title }}
+            <div class="post-image">
+            {%- if post.image -%}
+                <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+            {%- else -%}
+                {%- assign postImage = "/assets/images/image-default.jpg" -%}
+                <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
+            {%- endif -%}
+            </div>
+
           </h1>
       {% else %}
         {% include post-excerpt.html %}
@@ -12,12 +21,6 @@
         {% include post-excerpt.html %}
       {% endif %}
     </div>
-    {%- if post.image -%}
-        <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
-    {%- else -%}
-        {%- assign postImage = "/assets/images/image-default.jpg" -%}
-        <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
-    {%- endif -%}
     <span class="post-date">
       {{ post.date | date: "%b %-d, '%y" }}
     </span>

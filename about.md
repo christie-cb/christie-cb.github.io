@@ -35,7 +35,7 @@ We spend a lot of our time exploring everything the UK has to offer, but we also
   </figcaption>
 </figure>
 
-## Co-founder, Will 
+## Co-founder, Will
 
 <figure>
   <img alt="Will" src="imagens/charlotte_will.png" />
