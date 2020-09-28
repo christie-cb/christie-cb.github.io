@@ -3,15 +3,47 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+*– This blog uses affiliate links –*  
+
+My name is Miss Shoe, and I'm a UK based blogger who loves to travel. I travel with my family - including my nieces, who are both under the age of 3 (so we have the inside scoop on which hotels are family friendly!)  
+
+We spend a lot of our time exploring everything the UK has to offer, but we also regularly escape for weekend breaks and short getaways, as well as making time for those all-important main holidays!  
+
+### Here at Miss Shoe Stays you’ll find stories on:
+* UK day trips
+* Mini-breaks, weekends away and road trips
+* Family-friendliness reviews
+* Hotel, restaurant and attraction reviews
+* Travel lifestyle, tips and advice
+
+# The Miss Shoe team
+## Editor and co-founder, Miss Shoe
 
 <figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
+  <img alt="Christie" src="imagens/christie.jpg" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    Cotton Club, Ibiza
   </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+## Co-founder and photographer, Charlotte
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+<figure>
+  <img alt="Charlotte" src="imagens/charlotte.jpg" />
+  <figcaption>
+    Belmond Le Manoir aux Quat’Saisons, Oxford 
+  </figcaption>
+</figure>
+
+
+## Co-founder, Will
+
+<figure>
+  <img alt="Will" src="imagens/charlotte_will.png" />
+  <figcaption>
+    Kerið, Iceland
+  </figcaption>
+</figure>
+
+
+
