@@ -2,12 +2,18 @@
 layout: post
 title: About
 ---
+<div style="text-align: left ">
 
 *– This blog uses affiliate links –*  
+<br>
+<br>
 
 My name is Miss Shoe, and I'm a UK based blogger who loves to travel. I travel with my family - including my nieces, who are both under the age of 3 (so we have the inside scoop on which hotels are family friendly!)  
+<br>
+<br>
 
 We spend a lot of our time exploring everything the UK has to offer, but we also regularly escape for weekend breaks and short getaways, as well as making time for those all-important main holidays!  
+</div>
 
 ### Here at Miss Shoe Stays you’ll find stories on:
 * UK day trips
