@@ -5,13 +5,19 @@ title: Hotels
 
 # Cotswolds
 
+### Old Walls Cottage at Thyme, Southrop:
+
+Pros: Family friendly, dog friendly, access to Thyme with all of its beautiful facilities and Michelin starred-food.
+
+[Book here](https://www.mrandmrssmith.com/villas/thyme-old-walls "Old Walls Cottage")  
+[Blog Post - Coming Soon]("Coming Soon")
+
+
 ### Burford:
 We stayed in an Airbnb on the high street. Burford is a great base and very convieniently located.  
 
 ### Bledington Barn:
-
 Pros: Great location, spacious, beautiful decor  
-Cons: Not the best for kids
 
 [Book on Airbnb](https://www.airbnb.co.uk/rooms/3734614?source_impression_id=p3_1601315180_FqKmd6oBJfagtxpa "Bledington Barn")  
 [Blog Post - Coming Soon]("Coming Soon")
@@ -20,7 +26,6 @@ Cons: Not the best for kids
 
 ### Wilderness Reserve, Garden Cottage:  
 Pros: beautiful decor, lots to do, great for winter 
-Cons: expensive
 
 [Book here](https://wildernessreserve.com/garden-cottage/ "Garden Cottage")  
 [Blog Post - Coming Soon]("Coming Soon")
