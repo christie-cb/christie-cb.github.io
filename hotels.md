@@ -7,7 +7,7 @@ title: Hotels
 
 ### Old Walls Cottage at Thyme, Southrop:
 
-Pros: Family friendly, dog friendly, access to Thyme with all of its beautiful facilities and Michelin starred-food.
+Pros: Family friendly, dog friendly, access to the Thyme complex with all of its beautiful facilities and Michelin Plate food.
 
 [Book here](https://www.mrandmrssmith.com/villas/thyme-old-walls "Old Walls Cottage")  
 [Blog Post - Coming Soon]("Coming Soon")
