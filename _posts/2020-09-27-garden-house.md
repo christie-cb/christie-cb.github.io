@@ -10,7 +10,7 @@ image: imagens/elle_garden_house.jpeg
   
 <br>
 
-We were lucky enough to stay in this gorgeous house for a week and we loved every minute of it - on the last day we even spoke about how much we wanted to stay longer! It's very rare for a holiday home to have cleaners coming daily, so we were very pleasantly surprised when a lady came to clean every day and she made the house look lovely! She was nice and friendly and insanely efficient too. To keep up the gorgeous garden, there was also a gardener - all these staff were super polite and helpful and their work really sets Garden House apart from other places.   
+We were lucky enough to stay in this gorgeous house for a week and we loved every minute of it - on the last day we even spoke about how much we wanted to stay longer! It's very rare for a holiday home to have cleaners coming daily, so we were very pleasantly surprised when a lady came to clean every day and she made the house look lovely! She was nice and friendly and insanely efficient too. To keep up the gorgeous garden, there was also a gardener - all these staff were super polite and helpful and their work really sets Garden House apart from other places. We felt very safe and secure (the diligent staff always made sure the doors were properly locked behind us) and were able to relax knowing the housework was taken care of! 
 
 <br>
 
