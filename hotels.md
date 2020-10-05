@@ -29,4 +29,3 @@ Pros: beautiful decor, lots to do, great for winter
 
 [Book here](https://wildernessreserve.com/garden-cottage/ "Garden Cottage")  
 [Blog Post - Coming Soon]("Coming Soon")
-
